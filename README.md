@@ -7,11 +7,11 @@
 - <b>Project 2 Coming Soon</b>
   - 
 - <b>Project 3 Coming Soon</b>
-
+  -
 - <b>Project 4 Coming Soon</b>
-
-- <b>Python</b>
- 
+  -
+- <b>PythonProject</b>
+  -
 <h2>Certifications </h2>
 
 
